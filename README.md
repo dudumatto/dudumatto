@@ -15,11 +15,13 @@
 
 ### Sobre
 
-Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas no COTIL (Unicamp), conclusão em 2026. Vivo o ciclo completo de software no TCC **CollabResearch**: requisitos, back-end, front-end, banco relacional, testes e versionamento. Trabalho com Scrum e Kanban.
+Sou desenvolvedor full stack em formação, estudando Desenvolvimento de Sistemas no COTIL (Unicamp), com conclusão em 2026. Gosto de entender um problema de ponta a ponta: levantar requisitos, modelar o banco de dados, construir o back-end e o front-end, testar e versionar com Git e GitHub.
 
-- Atualmente em: **CollabResearch** e **agentes-IA**
-- Uso **IA** (Claude Code e Codex) para otimizar requisições, auditar bundle, automatizar tarefas e testar
-- Aberto a estágio em desenvolvimento de software (full stack) e a projetos freelance
+No dia a dia trabalho com Java e Spring Boot no back-end, React e JavaScript na interface, e também experimento com mobile (Flutter) e desktop (Electron). Organizo o trabalho com Scrum e Kanban, valorizo código limpo, qualidade e melhoria contínua.
+
+Uso IA como ferramenta de engenharia: Claude Code e Codex para otimizar requisições, auditar bundle, automatizar tarefas repetitivas e escrever testes, sempre revisando o que ela produz.
+
+Fora do código, penso em usabilidade e design de interfaces, e curto aprender com quem trabalha em equipe.
 
 ### Stack
 
@@ -27,7 +29,10 @@ Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas no COTIL (Uni
 
 <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,flutter,electron,git,github&theme=dark" alt="Java, Spring Boot, JavaScript, React, HTML, CSS, Flutter, Electron, Git, GitHub" />
 
-SQL · JPA · Hibernate · Scrum · Kanban · CI · Claude Code · Codex
+<img src="https://img.shields.io/badge/Claude_Code-0a0a0f?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Codex-0a0a0f?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+
+SQL · JPA · Hibernate · Scrum · Kanban · CI
 
 </div>
 

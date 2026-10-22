@@ -29,8 +29,8 @@ Fora do código, penso em usabilidade e design de interfaces, e curto aprender c
 
 <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,flutter,electron,git,github&theme=dark" alt="Java, Spring Boot, JavaScript, React, HTML, CSS, Flutter, Electron, Git, GitHub" />
 
-<img src="https://img.shields.io/badge/Claude_Code-0a0a0f?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Codex-0a0a0f?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+<img src="./assets/claude-code.svg" width="48" alt="Claude Code" title="Claude Code" />
+<img src="./assets/codex.svg" width="48" alt="Codex" title="Codex" />
 
 SQL · JPA · Hibernate · Scrum · Kanban · CI
 

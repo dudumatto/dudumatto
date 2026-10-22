@@ -4,7 +4,10 @@
 
 **Desenvolvedor de Sistemas** · Sites, automações e agentes de IA · Do problema ao deploy
 
-<a href="https://github.com/dudumatto"><img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=3B82F6" alt="GitHub" /></a>
+<a href="https://dumatto.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0a0f?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/eduardo-mattos-012529427/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/dudumatto_bjj/"><img src="https://img.shields.io/badge/Instagram-0a0a0f?style=for-the-badge&logo=instagram&logoColor=3B82F6" alt="Instagram" /></a>
+<a href="mailto:mattosdudu2009@gmail.com"><img src="https://img.shields.io/badge/E--mail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="E-mail" /></a>
 
 </div>
 
